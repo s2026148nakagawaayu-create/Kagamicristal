@@ -110,6 +110,10 @@ footer p {
         padding: 20px;
     }
 
+    body {
+    background-color: red !important;
+}
+
     .card h2 {
         font-size: 1.25rem;
     }
